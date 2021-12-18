@@ -1,0 +1,5 @@
+1/ Why we didnt use the if statement ?
+
+2/ why we created a new UI ?
+
+3/ where to we use the constructors and prototypes ?
